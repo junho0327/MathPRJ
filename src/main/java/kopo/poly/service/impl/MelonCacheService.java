@@ -3,7 +3,6 @@ package kopo.poly.service.impl;
 import kopo.poly.dto.MelonDTO;
 import kopo.poly.persistance.mongodb.IMelonMapper;
 import kopo.poly.service.IMelonCacheService;
-import kopo.poly.service.IMelonService;
 import kopo.poly.util.CmmUtil;
 import kopo.poly.util.DateUtil;
 import lombok.extern.slf4j.Slf4j;
